@@ -37,7 +37,7 @@ Then, download the [JSON private key file](https://cloud.google.com/iam/docs/cre
 
 # Create your env variables for Cloud Run
 
-Please fill in the following informations:
+Please fill in the following information:
 
 - `GCLOUD_PROJECT_NAME`
 - `GCLOUD_BUCKET_NAME`
