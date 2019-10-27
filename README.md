@@ -44,6 +44,8 @@ Please fill in the following information:
 
 Please give a feedback on this **new** way to deploy it ✨
 
+*For this deployment, the new service account can't be used. Simply grant the default (<project_id>-compute@developer.gserviceaccount.com) service account with the required roles*
+
 [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/Zenika/alpine-firestore-backup)
 
 ## 2. Use a public image
